@@ -57,8 +57,8 @@ __Future Capabilities:__
 # Dataset
 * Data can be extracted from RDHPCS Orion via executing the following script(s):
 
-> Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
-> On Orion, user must sym link from their home directory to the main directory containing the datasets of interest.
+* Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
+* On Orion, user must sym link from their home directory to the main directory containing the datasets of interest.
 
 # Quick Start
 * For demonstration purposes, refer to 'Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb'
@@ -70,16 +70,16 @@ __Future Capabilities:__
 # What's Included
 Within the download, you will find the following directories and files:
 
-> Data Analytics Tool:
+* Data Analytics Tool:
     > Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
-> List of Dependencies: 
+* List of Dependencies: 
     > environement.yaml
-> List of Latest Unique UFS Input & Baseline Data Files: 
+* List of Latest Unique UFS Input & Baseline Data Files: 
     > /UFS_Data_Files_List
 
 # Documentation
 
 # References
-> Latest UFS Weather Model Guide:
+* Latest UFS Weather Model Guide:
     > https://ufs-weather-model.readthedocs.io/en/latest/InputsOutputs.html
 
