@@ -60,7 +60,7 @@ __Future Capabilities:__
 > On Orion, user must sym link from their home directory to the main directory containing the datasets of interest.
 
 # Quick Start
-* For demonstration purposes, refer to 'ufs-data-analytics-tool.ipynb'
+* For demonstration purposes, refer to 'Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb'
 
 # Status
 [![Version badge](https://img.shields.io/badge/Python-3.9-blue.svg)](https://shields.io/)
