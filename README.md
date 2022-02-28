@@ -9,7 +9,7 @@ UFS Data Analytics Tool
 <h5 align="center">
     
 [Prerequisites](#Prerequisites) • [Dataset](#Dataset) • [Quick Start](#Quick-Start) • [Status](#Status)
- • [What's Included](#What's-Included) • [Documentation](#Documentation) • [References](#Creator(s))
+ • [What's Included](#What's-Included) • [Documentation](#Documentation) • [References](#Reference(s))
 
 </h5>
 
