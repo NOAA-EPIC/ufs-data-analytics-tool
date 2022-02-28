@@ -76,7 +76,7 @@ Within the download, you will find the following directories and files:
 * Data Analytics Tool:
     > Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
 * List of Dependencies: 
-    > environement.yaml
+    > environment.yaml
 * Latest Unique UFS Input & Baseline Data Files: 
     > /UFS_Data_Files_List
 
