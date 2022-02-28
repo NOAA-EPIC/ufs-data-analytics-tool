@@ -56,8 +56,7 @@ __Future Capabilities:__
 
 # Dataset
 * Data can be extracted from RDHPCS Orion via executing the following script(s):
-
-* Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
+    > Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
 * On Orion, user must sym link from their home directory to the main directory containing the datasets of interest.
 
 # Quick Start
