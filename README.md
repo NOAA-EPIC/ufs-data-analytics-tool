@@ -55,8 +55,9 @@ __Future Capabilities:__
 * Python 3.9
 
 # Dataset
-* Data can be extracted from via executing the following script(s):
+* Data can be extracted from RDHPCS Orion via executing the following script(s):
 
+> Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
 > On Orion, user must sym link from their home directory to the main directory containing the datasets of interest.
 
 # Quick Start
@@ -67,9 +68,9 @@ __Future Capabilities:__
 [![Build badge](https://img.shields.io/badge/Build--gray.svg)](https://shields.io/)
 
 # What's Included
-Within the download you will find the following directories and files:
+Within the download, you will find the following directories and files:
 
-> 
+> Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
 
 # Documentation
 
