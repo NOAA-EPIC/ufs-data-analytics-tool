@@ -23,6 +23,12 @@ __Capabilities:__
 
 The tool will be able to perform the following actions:
 
+<p align="center">
+    <img src="images/header2.png" width="670" height="320">
+</p>
+
+<h5 align="center">
+    
 * Apply feature engineering to obtain additional information regarding the data files. 
   
 * Extract all data filenames mapping them to their corresponding relative directory path, 
