@@ -150,7 +150,8 @@ Within the download, you will find the following directories and files:
 * Latest Unique UFS Input & Baseline Data Files: 
     > /UFS_Data_Files_List
 
-# Documentation
+# Documentation:
+* Refer to Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
 
 # References
 * Latest UFS Weather Model Guide:
