@@ -167,7 +167,7 @@ The United States Department of Commerce (DOC) GitHub project code is provided o
 [![Development badge](https://img.shields.io/badge/development-passing-green)](https://shields.io/)
 [![Build badge](https://img.shields.io/badge/build-passing-blue)](https://shields.io/)
 
-# References
+# Reference(s)
 * Latest UFS Weather Model Guide:
     > https://ufs-weather-model.readthedocs.io/en/latest/InputsOutputs.html
 
