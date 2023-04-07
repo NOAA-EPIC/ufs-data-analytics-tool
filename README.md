@@ -8,7 +8,7 @@ UFS Data Analytics Tool
 
 <h5 align="center">
     
-[About](#About) • [Prerequisites](#Prerequisites) • [Quick Start](#Quick-Start) • [Environment Setup](#Environment-Setup) • [What's Included](#What's-Included) • [Status](#Status) • [Version](#Version) • [Documentation](#Documentation) • [References](#Reference(s))
+[About](#About) • [Prerequisites](#Prerequisites) • [Quick Start](#Quick-Start) • [Environment Setup](#Environment-Setup) • [What's Included](#What's-Included) • [Status](#Status) • [Version](#Version) • [Documentation](#Documentation)
 
 </h5>
 
@@ -153,7 +153,7 @@ Within the download, you will find the following directories and files:
 * Latest Unique UFS Input & Baseline Data Files: 
     > /UFS_Data_Files_List
 
-# Documentation:
+# Documentation
 * Refer to Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
 
 # Status
@@ -167,7 +167,7 @@ The United States Department of Commerce (DOC) GitHub project code is provided o
 [![Development badge](https://img.shields.io/badge/development-passing-green)](https://shields.io/)
 [![Build badge](https://img.shields.io/badge/build-passing-blue)](https://shields.io/)
 
-# Reference(s)
+# Reference
 * Latest UFS Weather Model Guide:
     > https://ufs-weather-model.readthedocs.io/en/latest/InputsOutputs.html
 
